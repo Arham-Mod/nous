@@ -1,0 +1,42 @@
+# Model weights - never upload these
+*.bin
+*.pt
+*.pth
+*.safetensors
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_metadata
+
+# API keys - never ever
+.env
+secrets.py
+*.key
+
+# Data - too large for git
+data/
+*.csv
+*.json
+*.jsonl
+
+# Wandb
+wandb/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
