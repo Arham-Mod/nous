@@ -1,6 +1,7 @@
 import json
 import numpy as np
 from typing import Dict
+import math
 
 def allocate_ranks(
     sensitivity: Dict[str, float],
@@ -31,47 +32,53 @@ def allocate_ranks(
 
     # round to power of 2
     allocated = {}
+    rank_floor_ceil = {}
+
     for name, rank in rescaled.items():
-        power = round(np.log2(rank))
-        power = max(1, power)  # minimum power of 2 is 2^1 = 2
-        allocated[name] = int(2 ** power)
+        # nearest powers of 2 above and below
+        lower_power = max(1, math.floor(np.log2(rank)))
+        upper_power = lower_power + 1
 
-    # fix any remaining budget difference due to rounding
-    # add or remove rank from least sensitive layers to match budget
-    final_total = sum(allocated.values())
-    difference = total_budget - final_total
+        lower_rank = 2 ** lower_power
+        upper_rank = 2 ** upper_power
 
-    if difference != 0:
-        # sort by sensitivity score
-        sorted_by_sensitivity = sorted(
-            sensitivity.items(),
-            key=lambda x: x[1]
-        )
+        # clamp both to valid range
+        lower_rank = max(min_rank, min(max_rank, lower_rank))
+        upper_rank = max(min_rank, min(max_rank, upper_rank))
 
-        # if we are under budget add rank to most sensitive layers
-        # if over budget remove rank from least sensitive layers
-        if difference > 0:
-            layers_to_adjust = [n for n, _ in reversed(sorted_by_sensitivity)]
+        rank_floor_ceil[name] = (lower_rank, upper_rank, rank)
+
+# Step 5: start everyone at floor
+    for name, (lower, upper, raw) in rank_floor_ceil.items():
+        allocated[name] = lower
+
+    current_total = sum(allocated.values())
+    remaining_budget = total_budget - current_total
+
+    # compute how close each layer's raw value is to its ceiling
+    # (fraction between 0 and 1 — closer to 1 means closer to ceiling)
+    closeness = {}
+    for name, (lower, upper, raw) in rank_floor_ceil.items():
+        if upper == lower:
+            closeness[name] = 0
         else:
-            layers_to_adjust = [n for n, _ in sorted_by_sensitivity]
+            closeness[name] = (raw - lower) / (upper - lower)
 
-        for name in layers_to_adjust:
-            if difference == 0:
-                break
-            current = allocated[name]
-            if difference > 0:
-                # increase rank to next power of 2
-                next_rank = min(max_rank, current * 2)
-                allocated[name] = next_rank
-                difference -= (next_rank - current)
-            else:
-                # decrease rank to previous power of 2
-                prev_rank = max(min_rank, current // 2)
-                allocated[name] = prev_rank
-                difference += (current - prev_rank)
+    # sort by closeness to ceiling, descending
+    sorted_by_closeness = sorted(
+        closeness.items(), key=lambda x: x[1], reverse=True
+    )
 
+    for name, _ in sorted_by_closeness:
+        if remaining_budget <= 0:
+            break
+        lower, upper, raw = rank_floor_ceil[name]
+        if upper > allocated[name]:
+            cost = upper - allocated[name]
+            if cost <= remaining_budget:
+                allocated[name] = upper
+                remaining_budget -= cost
     return allocated
-
 
 def summarize_allocation(allocated: Dict[str, int]):
     """Print a summary of the rank allocation."""
