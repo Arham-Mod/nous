@@ -1,6 +1,6 @@
 from pathlib import Path
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent
 
-def project_path(*parts):
-    return ROOT_DIR.joinpath(*parts)
+def get_path(*parts):
+    return ROOT.joinpath(*parts)
