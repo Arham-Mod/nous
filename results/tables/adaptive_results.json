@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.91,
+  "correct": 910,
+  "total": 1000,
+  "method": "adaptive_uniform_r8"
+}

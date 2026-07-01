@@ -1,0 +1,6002 @@
+[
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "World",
+    "generated": "World",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": false
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  },
+  {
+    "true": "Business",
+    "predicted": "Business",
+    "generated": "Business",
+    "correct": true
+  },
+  {
+    "true": "Sports",
+    "predicted": "Sports",
+    "generated": "Sports",
+    "correct": true
+  },
+  {
+    "true": "World",
+    "predicted": "World",
+    "generated": "World",
+    "correct": true
+  },
+  {
+    "true": "Sci/Tech",
+    "predicted": "Sci/Tech",
+    "generated": "Sci/Tech",
+    "correct": true
+  }
+]

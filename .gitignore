@@ -27,7 +27,6 @@ secrets.py
 # Data - too large for git
 data/
 *.csv
-*.json
 *.jsonl
 
 # Wandb
