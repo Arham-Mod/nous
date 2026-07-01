@@ -1,0 +1,31 @@
+experiment_name: "baseline-uniform-r8"
+method: "uniform"
+description: "Standard LoRA with uniform rank=8. Control group."
+
+model:
+  name: "mistralai/Mistral-7B-v0.1"
+  quantization: "4bit-nf4"
+  compute_dtype: "float16"
+  double_quant: true
+
+lora:
+  rank: 8
+  alpha: 16
+  dropout: 0.05
+  target_modules:
+    - "q_proj"
+    - "v_proj"
+  bias: "none"
+  task_type: "CAUSAL_LM"
+
+training:
+  dataset: "fancyzhx/ag_news"
+  train_size: 8000
+  test_size: 1000
+  epochs: 2
+  batch_size: 4
+  learning_rate: 0.0002
+  max_seq_length: 256
+  shuffle_seed: 42
+  optimizer: "AdamW"
+  checkpoint_every: 500

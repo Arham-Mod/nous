@@ -1,0 +1,40 @@
+experiment_name: "adaptive-sensitivity-based"
+method: "adaptive"
+description: "LoRA with per-layer rank allocation based on gradient norm sensitivity from 200-step warmup. Same parameter budget as baseline."
+
+model:
+  name: "mistralai/Mistral-7B-v0.1"
+  quantization: "4bit-nf4"
+  compute_dtype: "float16"
+  double_quant: true
+
+sensitivity:
+  warmup_steps: 200
+  metric: "gradient_norm"
+  warmup_train_size: 1000
+  aggregation: "sum_lora_A_and_lora_B"
+
+lora:
+  default_rank: 8
+  min_rank: 2
+  max_rank: 16
+  alpha_multiplier: 2
+  dropout: 0.05
+  target_modules:
+    - "q_proj"
+    - "v_proj"
+  bias: "none"
+  task_type: "CAUSAL_LM"
+  rank_source: "results/rank_allocation.json"
+
+training:
+  dataset: "fancyzhx/ag_news"
+  train_size: 8000
+  test_size: 1000
+  epochs: 2
+  batch_size: 4
+  learning_rate: 0.0002
+  max_seq_length: 256
+  shuffle_seed: 42
+  optimizer: "AdamW"
+  checkpoint_every: 500
