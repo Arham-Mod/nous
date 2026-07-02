@@ -2,8 +2,7 @@ import json
 from src.allocation_var_a import allocate_ranks, summarize_allocation
 from utils.paths import get_path
 
-# Load real aggregated sensitivity scores
-with open(get_path('results', 'sensitivity_aggregated(1).json'), 'r') as f:
+with open(get_path('results', 'sensitivity_aggregated.json'), 'r') as f:
     real_sensitivity = json.load(f)
 
 print(f"Loaded {len(real_sensitivity)} real sensitivity scores\n")

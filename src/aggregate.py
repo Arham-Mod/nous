@@ -9,18 +9,16 @@ for name, score in data.items():
 
     parts = name.split(".")
 
-    layer_num = parts[4] # Takes layerno
-    proj_type = parts[6] # Takes projection(q,v)
+    layer_num = parts[4] 
+    proj_type = parts[6] 
 
     key = f"layer_{layer_num}_{proj_type}"
 
     if key not in aggregated:
         aggregated[key] = 0
-# this line add the LoraA and LoraB together to a single lora score of the layer
     aggregated[key] += score
 
 
-# Save aggregated scores
 with open("results/sensitivity_aggregated.json", "w") as f:
     json.dump(aggregated, f, indent=2)
 
