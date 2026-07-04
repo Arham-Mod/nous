@@ -8,6 +8,7 @@ import sys
 import random
 import torch
 from tqdm import tqdm
+import numpy as np
 from torch.utils.data import DataLoader
 from datasets import load_dataset
 from peft import(
@@ -239,6 +240,8 @@ def train(model, dataloader, val_loader, config, save_path):
                 }, checkpoint_file)
                 print(f"  Checkpoint saved at step {step}")
 
+    return losses, val_losses
+
     # final save
     model.save_pretrained(save_path)
     print(f"\nTraining complete. Model saved to {save_path}")
@@ -271,7 +274,12 @@ def main():
 
     print("\nLoading model..")
     model, tokenizer = load_model_and_tokenizer(config)
-    model = prepare_model_for_kbit_training()
+    model = prepare_model_for_kbit_training(model)
+
+    print("\nBuilding LoRA config...")
+    lora_config = build_lora_config(config)
+    model = get_peft_model(model, lora_config)
+    model.print_trainable_parameters()
 
     # Load dataset and tokenize
     print("\nLoading dataset...")
@@ -295,8 +303,12 @@ def main():
     val_data = dataset['train'].shuffle(
         seed=config['training']['shuffle_seed'] + 1
     ).select(range(val_size))
-    val_data = val_data.map(
-        lambda ex: {"text": format_example_text(ex)}
+    val_size = config['training'].get('val_size', 500)
+    val_data = format_ag_news(
+        dataset,
+        split='train',
+        size=val_size,
+        seed=config['training']['shuffle_seed'] + 1
     )
 
     tokenized_train = tokenize_dataset(
@@ -325,7 +337,7 @@ def main():
     print(f"Total steps:       {len(train_loader) * config['training']['epochs']}")
 
     print("\nStarting training...")
-    losses = train(model, train_loader, config, save_path)
+    losses, val_losses = train(model, train_loader, config, save_path)
 
     tokenizer.save_pretrained(save_path)
 
