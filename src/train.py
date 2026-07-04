@@ -17,6 +17,8 @@ from peft import(
     prepare_model_for_kbit_training
 )
 
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from utils.utils import (
     load_config,
     save_json,
