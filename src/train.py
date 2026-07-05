@@ -339,7 +339,7 @@ def main():
     print(f"Total steps:       {len(train_loader) * config['training']['epochs']}")
 
     print("\nStarting training...")
-    losses, val_losses = train(model, train_loader, config, save_path)
+    losses, val_losses = train(model, train_loader, val_loader, config, save_path)
 
     tokenizer.save_pretrained(save_path)
 
