@@ -99,3 +99,76 @@ starving v_proj entirely.
 **The fix:** RMS normalization — dividing gradient norm by √(number of
 elements) — removes the size dependence and leaves only per-element
 gradient magnitude as the signal.
+
+```python
+# broken — raw L2, biased by tensor size
+sensitivity[name] += param.grad.norm().item()
+ 
+# fixed — RMS, size-independent
+sensitivity[name] += (param.grad.norm() / param.grad.numel() ** 0.5).item()
+```
+
+This single change took accuracy from 35.5% to 91.0%.
+
+### Finding 3 — Rank redistribution shifts category-level performance
+
+Adaptive allocation achieved comparable overall accuracy to uniform LoRA
+while meaningfully redistributing performance across categories:
+ 
+| Method                  | Overall | World | Sports | Business | Sci/Tech |
+|-------------------------|---------|-------|--------|----------|----------|
+| Baseline (uniform r=8)  | 91.10%  | 85.7% | 99.6%  | 89.0%    | 90.5%    |
+| Adaptive (ours)         | 91.00%  | 88.3% | 99.6%  | 81.3%    | 95.0%    |
+
+Sci/Tech improved by +4.5%, World by +2.6%. Business dropped by -7.7%.
+![Rank Distribution](results/figures/rank_distribution.png)
+*Baseline assigns uniform rank 8 to all 64 layer-projections.
+Adaptive redistributes the same total budget based on sensitivity scores,
+giving higher rank to more sensitive layers and lower rank to less sensitive ones.*
+
+Sci/Tech improved by +4.5%, World by +2.6%...
+
+Sci/Tech and Business share significant vocabulary (Apple, Google, product,
+market, earnings). The rank redistribution sharpened the model's ability to
+distinguish between these semantically overlapping categories — improving
+one at the cost of the other.
+
+### Finding 4 — Pre-allocation is simpler and more predictable than AdaLoRA
+ 
+One warmup run. Ranks fixed before training begins. No SVD during training.
+No dynamic recomputation. Fully reproducible rank assignments stored in a
+plain JSON file before the main training run starts.
+ 
+---
+
+## ADD HOW TO RUN HERE
+
+## Project Structure
+ 
+```
+adaptive-lora/
+├── src/
+│   ├── sensitivity.py           # gradient norm measurement (RMS-normalized)
+│   ├── aggregate.py             # pool lora_A + lora_B per layer-projection
+│   ├── allocate.py              # convert scores to rank assignments
+│   ├── train.py                 # training loop (all three experiments)
+│   ├── evaluate.py              # evaluation on test set
+├── configs/
+│   ├── baseline_lora.yaml       # uniform rank=8
+│   ├── adaptive_lora.yaml       # sensitivity-based ranks
+│   └── random_lora.yaml         # random ablation
+├── results/
+│   ├── sensitivity_scores.json        # raw per-parameter scores
+│   ├── sensitivity_aggregated.json    # 64 layer-projection scores
+│   ├── rank_allocation.json           # 64 rank assignments
+│   └── figures/                       # plots
+├── notebooks/
+│   ├── 01_Baseline_Training.ipynb
+│   ├── 02_Sensitivity_Warmup.ipynb
+│   ├── 03_Adaptive_Training.ipynb
+│   └── 04_Evaluation.ipynb
+├── requirements.txt
+└── README.md
+```
+ 
+---
