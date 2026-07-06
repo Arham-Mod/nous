@@ -120,21 +120,25 @@ def print_top_bottom(aggregated, n=10):
 
 
 def main():
+    # CLI arguments
     parser = argparse.ArgumentParser(
         description='Measure per-layer LoRA sensitivity via gradient norms'
     )
+    # Config file
     parser.add_argument(
         '--config',
         type=str,
         required=True,
         help='Path to config yaml file (use adaptive_lora.yaml)'
     )
+    # No of warmup steps
     parser.add_argument(
         '--steps',
         type=int,
         default=200,
         help='Number of warmup steps (default: 200)'
     )
+    # Output file
     parser.add_argument(
         '--output',
         type=str,

@@ -253,9 +253,11 @@ def train(model, dataloader, val_loader, config, save_path):
 
 
 def main():
+    # CLI arguments
     parser = argparse.ArgumentParser(
         description="Train a LoRA model with specified configuration."
     )
+    # Config file
     parser.add_argument(
         '--config', type=str, required=True,help = 'Path to the config yaml file.'
     )

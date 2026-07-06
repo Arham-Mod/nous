@@ -204,15 +204,18 @@ def print_results(experiment_name, accuracy, breakdown, baseline_acc=None):
 
 
 def main():
+    # CLI arguments
     parser = argparse.ArgumentParser(
         description='Evaluate trained LoRA model on AG News test set'
     )
+    # Config file
     parser.add_argument(
         '--config',
         type=str,
         required=True,
         help='Path to config yaml file'
     )
+    # If baseline
     parser.add_argument(
         '--baseline',
         type=str,
