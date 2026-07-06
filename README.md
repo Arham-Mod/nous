@@ -63,3 +63,39 @@ Step 4 — Evaluate
 ```
  
 ---
+
+## Key Findings
+
+### Finding 1 - v_proj is consistently more senstive than q_proj
+
+Across all 32 layers of Mistral-7B, value projection layers showed
+significantly higher gradient norms than query projection layers during
+the task-specific warmup on AG News.
+
+![Layer Senstivity](results/figures/sensitivity_heatmap.png)
+*Sensitivity scores per layer per projection type. v_proj consistently
+shows higher sensitivity than q_proj across all 32 layers of Mistral-7B*
+
+This pattern held on Phi-2 (standard MHA) as well as Mistral-7B (GQA),
+confirming it reflects genuine fine-tuning dynamics rather than an
+architectural artifact.
+ 
+**Why:** v_proj controls what information flows forward through the network.
+Fine-tuning on a new task requires recalibrating content extraction.
+q_proj controls attention routing patterns from pretraining transfer
+more readily to new tasks with minimal adjustment.
+ 
+### Finding 2 — GQA introduces a tensor-size bias in raw gradient norms
+ 
+In Mistral-7B's grouped query attention (32 Q heads, 8 KV heads), q_proj
+has 4x more parameters than v_proj. Raw L2 gradient norm scales with
+tensor size — a larger tensor produces a larger norm even at identical
+per-element gradient magnitude.
+ 
+Without normalization, the sensitivity allocator reads this size difference
+as an importance difference and dumps the entire rank budget into q_proj,
+starving v_proj entirely.
+ 
+**The fix:** RMS normalization — dividing gradient norm by √(number of
+elements) — removes the size dependence and leaves only per-element
+gradient magnitude as the signal.
