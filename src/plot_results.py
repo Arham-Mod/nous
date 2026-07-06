@@ -170,3 +170,25 @@ plt.tight_layout()
 plt.savefig('results/figures/sensitivity_by_layer.png', dpi=150)
 plt.show()
 print("Saved: results/figures/sensitivity_by_layer.png")
+
+
+with open('results/adaptive_losses.json', 'r') as f:
+    losses = json.load(f)
+# smooth with moving average
+window = 50
+smoothed = np.convolve(losses, np.ones(window)/window, mode='valid')
+steps = range(len(smoothed))
+
+fig, ax = plt.subplots(figsize=(12, 4))
+ax.plot(steps, smoothed, color='steelblue', linewidth=1.5,
+        label='Training Loss (smoothed)')
+ax.axvline(x=2000, color='gray', linestyle='--',
+        alpha=0.7, label='Epoch boundary')
+ax.set_xlabel('Training Step')
+ax.set_ylabel('Loss')
+ax.set_title('Adaptive Training Loss — Mistral-7B LoRA on AG News')
+ax.legend()
+plt.tight_layout()
+plt.savefig('results/figures/adaptive_loss_curve.png', dpi=150)
+plt.show()
+print("Saved: results/figures/adaptive_loss_curve.png")
