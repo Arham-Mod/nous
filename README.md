@@ -1,5 +1,13 @@
 # NOUS 
 ![Cover_image](Nous_cover.jpg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Model](https://img.shields.io/badge/Model-Mistral--7B-purple)
+![Method](https://img.shields.io/badge/Method-LoRA%20%2B%20QLoRA-red)
+![Dataset](https://img.shields.io/badge/Dataset-AG%20News-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Hardware](https://img.shields.io/badge/Hardware-T4%20GPU-lightgrey)
 
 > *Standard LoRA gives every transformer layer the same rank. Not all layers are equally important for a given task. This project asks: can gradient norms tell us which layers deserve more?*
 
