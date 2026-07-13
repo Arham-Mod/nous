@@ -1,5 +1,4 @@
-# NOUS — v1.0
-## Sensitivity-Based LoRA Rank Allocation
+# NOUS 
 ![Cover_image](Nous_cover.jpg)
 
 > *Standard LoRA gives every transformer layer the same rank. Not all layers are equally important for a given task. This project asks: can gradient norms tell us which layers deserve more?*
