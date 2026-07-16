@@ -70,7 +70,7 @@ def measure_sensitivity(model, dataloader, num_steps=200):
         loss.backward()
         for name, param in model.named_parameters():
             if param.requires_grad and param.grad is not None:
-                sensitivity_scores[name] += param.grad.abs().sum().item()
+                sensitivity_scores[name] += (param.grad.norm() / param.grad.numel() ** 0.5).item()
 
         optimizer.step()
         optimizer.zero_grad()
@@ -78,7 +78,7 @@ def measure_sensitivity(model, dataloader, num_steps=200):
 
         if step % 50 == 0:
             print(f"  Warmup step {step}/{num_steps} | Loss: {loss.item():.4f}")
-        
+
         for name in sensitivity_scores:
             sensitivity_scores[name] /= step
 
